@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "id": "ddddddd",
+      "name": "ssss",
+      "password": "ssss",
+      "country": "sssss",
+      "email": "sssss@dkdkdd",
+      "phone": ""
+    },
+    {
+      "id": "gggg",
+      "name": "eee",
+      "password": "eee",
+      "country": "eee",
+      "email": "eee@ddd",
+      "phone": ""
+    },
+    {
+      "id": "gggg5656565",
+      "name": "gggr",
+      "password": "5656",
+      "country": "sssss",
+      "email": "gggg@kkk",
+      "phone": "56565"
+    },
+    {
+      "id": "dddddd",
+      "name": "eee",
+      "password": "eeeeee",
+      "country": "eeee",
+      "email": "eee@ldkdl",
+      "phone": "dddd"
+    },
+    {
+      "id": "uuu",
+      "name": "777",
+      "password": "7777777",
+      "country": "777",
+      "email": "555@5555",
+      "phone": "rrr"
+    }
+  ],
+  "posts": [
+    {
+      "content": "jjjjjjjjjjj",
+      "user": {
+        "id": "ddddddd",
+        "name": "ssss",
+        "password": "ssss",
+        "country": "sssss",
+        "email": "sssss@dkdkdd",
+        "phone": ""
+      },
+      "like": 5,
+      "fav": true,
+      "id": 13
+    },
+    {
+      "content": "5555555",
+      "user": {
+        "id": "ddddddd",
+        "name": "ssss",
+        "password": "ssss",
+        "country": "sssss",
+        "email": "sssss@dkdkdd",
+        "phone": ""
+      },
+      "like": 6,
+      "fav": false,
+      "id": 14
+    },
+    {
+      "content": "ggggggggggg",
+      "user": {
+        "id": "ddddddd",
+        "name": "ssss",
+        "password": "ssss",
+        "country": "sssss",
+        "email": "sssss@dkdkdd",
+        "phone": ""
+      },
+      "like": 0,
+      "fav": false,
+      "id": 15
+    }
+  ]
+}
